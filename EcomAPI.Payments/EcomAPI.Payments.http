@@ -1,0 +1,6 @@
+@EcomAPI.Payments_HostAddress = http://localhost:5198
+
+GET {{EcomAPI.Payments_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
